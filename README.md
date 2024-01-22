@@ -1,6 +1,7 @@
-1. Escriba un programa que llame a las funciones que creas convenientes para calcular
+1. Escriba un programa que llame a las funciones que creas convenientes para calcular.Ejercicio Refactorizado
 la suma y multiplicación de los n primeros números impares y de los n primeros
 números pares. Y muestre los mensajes con los valores devueltos.
+Se mejora el formato del codigo,se implementan metodos y se añade el metodo multiplicar ya que faltaba.
 
 2. Realiza un programa que pida al usuario dos enteros, estos enteros se pasan como
 parámetros a una función que muestra todos los números comprendidos entre ellos,
